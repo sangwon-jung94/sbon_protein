@@ -1,0 +1,43 @@
+# Python
+*.pyc
+*/__pycache__/*
+__pycache__/
+
+# Large model files
+artifacts/
+model/
+*.ckpt
+*.pth
+
+# Data files
+*.pdb
+*.npz
+*.fa
+*.pkl
+*.pt
+*.tar
+*.fasta
+*.cif
+
+# Symlinks to shared storage
+reference
+datasets/laproteina_1000
+
+# Dataset subdirs with raw data
+datasets/AlphaFold_model_PDBs/
+datasets/artifacts/
+datasets/processed_data/
+datasets2/
+
+# W&B / logs
+*/wandb/*
+log/
+
+# IDE / OS
+.vscode
+.DS_Store
+
+# Misc
+*/try.ipynb
+README2.md
+medias/partial_logs.zip

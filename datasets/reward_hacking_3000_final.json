@@ -1,0 +1,82 @@
+{
+  "10": {
+    "esm_selected_cf_mean": 53.7452754,
+    "esm_selected_cf_std": 4.085364859634308,
+    "oracle_cf_mean": 56.5162662,
+    "oracle_cf_std": 2.952192785303418,
+    "gap_mean": 2.7709907999999976,
+    "gap_std": 3.429268255303944
+  },
+  "20": {
+    "esm_selected_cf_mean": 53.7114112,
+    "esm_selected_cf_std": 4.7619738012503365,
+    "oracle_cf_mean": 57.953410000000005,
+    "oracle_cf_std": 2.8820871845348464,
+    "gap_mean": 4.241998799999998,
+    "gap_std": 4.376427231301643
+  },
+  "30": {
+    "esm_selected_cf_mean": 54.3144334,
+    "esm_selected_cf_std": 4.410834106441146,
+    "oracle_cf_mean": 58.940726600000005,
+    "oracle_cf_std": 3.144208280447151,
+    "gap_mean": 4.626293199999998,
+    "gap_std": 4.392107346428792
+  },
+  "40": {
+    "esm_selected_cf_mean": 54.5394884,
+    "esm_selected_cf_std": 4.358919375967565,
+    "oracle_cf_mean": 59.8203774,
+    "oracle_cf_std": 3.0570194041891905,
+    "gap_mean": 5.280888999999996,
+    "gap_std": 4.82127508285298
+  },
+  "50": {
+    "esm_selected_cf_mean": 54.6202108,
+    "esm_selected_cf_std": 4.336953571769403,
+    "oracle_cf_mean": 60.0314056,
+    "oracle_cf_std": 3.073150253444929,
+    "gap_mean": 5.411194799999996,
+    "gap_std": 4.455523139674279
+  },
+  "60": {
+    "esm_selected_cf_mean": 54.804867599999994,
+    "esm_selected_cf_std": 4.565660822258949,
+    "oracle_cf_mean": 60.698904799999994,
+    "oracle_cf_std": 3.0873015094637184,
+    "gap_mean": 5.894037199999996,
+    "gap_std": 4.675205616386959
+  },
+  "70": {
+    "esm_selected_cf_mean": 54.830232800000005,
+    "esm_selected_cf_std": 4.003443519537172,
+    "oracle_cf_mean": 61.0754698,
+    "oracle_cf_std": 3.031756237969661,
+    "gap_mean": 6.245236999999996,
+    "gap_std": 4.2500886518390395
+  },
+  "80": {
+    "esm_selected_cf_mean": 55.160070399999995,
+    "esm_selected_cf_std": 3.924683765039401,
+    "oracle_cf_mean": 61.241914,
+    "oracle_cf_std": 3.111196066467683,
+    "gap_mean": 6.081843599999995,
+    "gap_std": 4.136243694892628
+  },
+  "90": {
+    "esm_selected_cf_mean": 54.88418800000001,
+    "esm_selected_cf_std": 4.2773738999830275,
+    "oracle_cf_mean": 61.728511,
+    "oracle_cf_std": 3.2240789460587025,
+    "gap_mean": 6.844322999999996,
+    "gap_std": 4.511814528139536
+  },
+  "100": {
+    "esm_selected_cf_mean": 54.655445400000005,
+    "esm_selected_cf_std": 3.7958843956894746,
+    "oracle_cf_mean": 61.74761619999999,
+    "oracle_cf_std": 2.8519982758335507,
+    "gap_mean": 7.092170799999993,
+    "gap_std": 4.439685289282039
+  }
+}
